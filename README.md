@@ -4,7 +4,7 @@ Proxmox related commands and scripts
 
 #### List volumes
 ```
-pvesm status'
+pvesm status
 ```
 #### Create a LXC/CT container
 ```
